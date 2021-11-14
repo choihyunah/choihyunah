@@ -1,4 +1,6 @@
 ### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hyunah%20Choi&fontSize=90)
+
 Hello, I'm a back-end developer.
 I am taking a back-end developer completion course at the academy.
 
