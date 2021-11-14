@@ -4,6 +4,8 @@ I am taking a back-end developer completion course at the academy.
 
 I want to help the company with the skills I learned and grow into a developer.
 
+If you contact me, please leave the email.
+
 
 
 ![GitHub issues](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) ![GitHub issues](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=yellow)
