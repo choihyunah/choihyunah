@@ -6,6 +6,7 @@ I want to help the company with the skills I learned and grow into a developer.
 
 If you contact me, please leave the email.
 
+✋
 
 
 ![GitHub issues](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)![GitHub issues](https://img.shields.io/badge/-MySQL-7DCDA3?style=flat-square&logo=MySQL&logoColor=black)![GitHub issues](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
